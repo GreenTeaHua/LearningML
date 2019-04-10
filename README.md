@@ -9,4 +9,6 @@
 [李航 统计学习方法](https://github.com/xjwhhh/LearningML/tree/master/StatisticalLearningMethod)
 
 [周志华 机器学习](https://github.com/xjwhhh/LearningML/tree/master/watermelon)
-
+https://www.csie.ntu.edu.tw/~htlin/course/mlfound17fall/
+吴恩达新书-Machine Learning Yearning 中文版全
+https://blog.csdn.net/maerdym/article/details/82861417
